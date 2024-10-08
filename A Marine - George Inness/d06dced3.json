@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The silhouette of the heron highlighted by an orange hue to show that it is the focal point of the painting. It is posed with wings slightly flared and head extended upward in a majestic stance. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/0f2d999d-0173-2935-a6d0-0175bb97b2a9",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1854.9322509765625,2639.16064453125,519.9227294921875,1007.35009765625"
+      },
+      "id": "d06dced3"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8945fefa"
+  }
+]
