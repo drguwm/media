@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "8945fefa"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Blended brush strokes to create a soft, gentile appearance of a calm, quiet stillness in nature. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/0f2d999d-0173-2935-a6d0-0175bb97b2a9",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:544.2940063476562,1588.483642578125,3292.8432006835938,931.528076171875"
+      },
+      "id": "d06dced3"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ea36cf49"
   }
 ]
