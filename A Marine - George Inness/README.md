@@ -1,2 +1,0 @@
-# A marine   george inness
-
