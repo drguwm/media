@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "08f3514c"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "All sheep are faced towards their owner and the viewer, implying that the storm is coming towards the audience.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/05dcffe0-97a9-cd59-df71-73731a5dbd9f",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1071.568603515625,1225.61767578125,1854.902099609375,538.2354736328125"
+      },
+      "id": "60f34203"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "66cb7d00"
   }
 ]
