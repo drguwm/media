@@ -15,3 +15,5 @@ Landscape paintings in the United States during the Industrial Revolution were m
 As the storm rolls in, the only person in the painting lays down in a relaxed position and watches the clouds turn grey, unmoved by his sheep motioning toward him in a flee from the hazard. Possibly, he sits in acceptance of his fate or without a care; on the other hand, it can be that he is posed in awe of the power that nature holds above him. His disposition of relaxation is the same as the man in *The Lackawanna Valley* while the noisy train rushes towards him, functioning the same as the weather in *The Storm.* 
 .ve-media https://api.artic.edu/api/v1/artworks/30701/manifest.json
 Many Inness landscapes include a quaint agricultural setting, or a person out and about in nature. This promotes the romantic concept of living with nature rather than against it, as it is something that people are blessed with. 
+
+.ve-media https://www.nga.gov/collection/art-object-page.30776.html 
