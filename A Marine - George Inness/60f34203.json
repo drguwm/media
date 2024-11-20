@@ -4,27 +4,6 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "Relaxed figure watching the storm roll in.",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://www.artic.edu/iiif/2/05dcffe0-97a9-cd59-df71-73731a5dbd9f",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:385.2940979003906,1473.6568603515625,486.2746887207031,439.2156982421875"
-      },
-      "id": "60f34203"
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "3aab938c"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
         "value": "Pockets of light showing that the storm is just arriving.",
         "purpose": "commenting"
       }
@@ -61,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "66cb7d00"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Relaxed figure watching the storm roll in.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/05dcffe0-97a9-cd59-df71-73731a5dbd9f",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:385.2940979003906,1473.6568603515625,486.2746887207031,439.2156982421875"
+      },
+      "id": "60f34203"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3aab938c"
   }
 ]
