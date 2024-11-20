@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Light shedding on the people and their dog as they play and sit joyously. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/9c2e39ad-fc3f-356e-cd98-db0038cfe8da",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:546.0784912109375,1299.76220703125,780.39208984375,447.0589599609375"
+      },
+      "id": "b7700b58"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "00f1d618"
+  }
+]
