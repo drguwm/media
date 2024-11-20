@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "dd196f04"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Darkness of the trees, possibly to imply that there is danger in the forest and that the people should stay near the mill.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/9c2e39ad-fc3f-356e-cd98-db0038cfe8da",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:40.196109771728516,1338.9779052734375,454.9019432067871,666.6666259765625"
+      },
+      "id": "b7700b58"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b5f98bc8"
   }
 ]
