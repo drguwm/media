@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "00f1d618"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Light shed on the old mill as a hint that this is a stable and safe place for the people across the stream.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/9c2e39ad-fc3f-356e-cd98-db0038cfe8da",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1173.5294189453125,942.8995361328125,639.2158203125,466.6668701171875"
+      },
+      "id": "b7700b58"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "dd196f04"
   }
 ]
