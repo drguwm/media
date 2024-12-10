@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Contrasting the warmness of the autumnal orange leaves to the vibrant blue sky.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/f837e639-5a6c-3043-3c2c-a4d5ece3bf1d",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:52.28378677368164,52.627933502197266,316.972713470459,290.55825424194336"
+      },
+      "id": "8b7ced1d"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "694fd754"
+  }
+]
