@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "8fa48f85"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "An array of buildings, possibly houses, showing that other people are still asleep at home while the man has already begun his day.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/ef96e79b-f481-8114-0804-4bd39c101983",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:218.64109802246094,2735.58984375,1888.549331665039,963.287353515625"
+      },
+      "id": "58e1e398"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "7dac601c"
   }
 ]
