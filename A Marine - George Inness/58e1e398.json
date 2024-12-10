@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Pinkish or orange hue to the soft, light clouds to show that the sun is serenely rising.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/ef96e79b-f481-8114-0804-4bd39c101983",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2016.6689453125,193.523193359375,1194.72705078125,902.0146484375"
+      },
+      "id": "58e1e398"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d15b52d2"
+  }
+]
