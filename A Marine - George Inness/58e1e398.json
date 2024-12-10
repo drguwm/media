@@ -61,5 +61,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "7dac601c"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "A bird gliding by, showing that nature is beginning to wake with the man.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/ef96e79b-f481-8114-0804-4bd39c101983",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3830.96728515625,1480.781982421875,621.06689453125,481.643310546875"
+      },
+      "id": "58e1e398"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "48d7ceff"
   }
 ]
