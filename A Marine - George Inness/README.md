@@ -35,4 +35,6 @@ George Inness would explain his aesthetic in ==*Harper's*=={Q16841281} magazine 
 
 “Details in the pictures must be elaborated only enough fully to reproduce the impression that the artist wishes to reproduce. When [there are more details], the impression is weakened or lost, and we see simply an array of external things which may be cleverly painted and may look very real, but which do not make an artistic painting… . The one is poetic truth, the other is scientific truth; the former is aesthetic, the latter is analytic.” (Art Institute of Chicago). 
 
+He believed it was the painter's job to use their work to explain their impression of their environs to the viewer. It was more artistic to use painting as poetry, and that realism in fine detail is too academic, and that art should aspire to be more aesthetically pleasing. His landscapes were a way to show people that nature is the work of God, and that it is beautiful, powerful, humbling, serene, and so on. His combinination of French plein-air style and Hudson River School ideologies allowed him to be one of the most influencial landscape painters in art history. 
+
 [^5]: Barter, Judith A., et al. [American Arts at The Art Institute of Chicago: From Colonial Times to World War I](https://www.artic.edu/artworks/64729/early-morning-tarpon-springs), Art Institute of Chicago, 1998.
