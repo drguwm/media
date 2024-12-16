@@ -4,11 +4,10 @@
 
 [^1]: Bell, Adrienne Baxter. ["George Inness (1825-1894)"](https://www.metmuseum.org/toah/hd/inne/hd_inne.htm) in *Heilbrunn Timeline of Art History*, The Metropolitan Museum of Art, New York, December 2012.
 [^2]: Quick, Michael. ["A Marine,"](https://www.artic.edu/artworks/68792/a-marine) in *Rutgers University Press*, Art Institute of Chicago, 2007.
-#A Marine
+#Land and Sea
 .ve-media https://api.artic.edu/api/v1/artworks/68792/manifest.json right
 In his seascape painting [*A Marine*](https://www.artic.edu/artworks/68792/a-marine)[^2], Inness depicts the ocean as beauty to be seen in caution, which is exemplified by the choppiness of the water depicted in his vigorous brushstrokes, drawing attention to the sea's dramatic nature. Beyond the greens and grays of the grim weather can be seen an orange and yellow illumination of the sun, accentuating distant ships in the harbor of a town across the water. Inness brings life to the canvas with the rough textures of the boulders along the shore, allowing the viewer to perceive the wet patches from the dry, as well as the miry algae on the rocky surface. The overall moodiness of the painting captivates the viewers with the energy and excitment of dangerous waters and a muted, romantic color palette to show wariness and beauty. It is as if Inness is being humbled by the awesome power of nature, and is attempting to elucidate this feeling of modesty.
 
-#The Home of the Heron
 .ve-media https://api.artic.edu/api/v1/artworks/64724/manifest.json left 
 In *The Home of the Heron,* Inness shows us a golden view of Florida, complete with a soft brush of trees and tall grass. The style of this painting is much smoother in texture than that of *A Marine*, contrary to the rigidness and sharpness of the seascape. The brush strokes are blended together to create a foggy glow and a sense of tranquility. The heron is surrounded by a glow of orange, and is portrayed as a silhouette standing tall with wings extended and beak pointing upward, showing us how majestic and powerful nature is. Its sprawled body and stretched neck seem as if we can almost hear its mellow calls. The overall tone of the portrait is quiet and calm, expressing the stillness in nature with the only life being the viewer and the heron. The color palette also opposes *A Marine*, with oranges, browns, and yellows evoking an uplifting, soothing sensation in contrast to the blues, greys, and black brooding over the sea.
 #The Hudson River School and Industrial Revolution
